@@ -1,2 +1,2 @@
 ## Curriculum Vitae
-Listed my academic history. Click the "liuCV.pdf" file.
+List my academic history and research. Click the "liuCV.pdf" file.
